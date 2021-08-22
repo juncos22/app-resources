@@ -1,0 +1,12 @@
+* Receta:
+	- Titulo
+	- Tipo (Desayuno, Almuerzo, Merienda, Cena, Bebida, Snack, Vegana)
+	- Categoria (Aperitivo, Entrada, Plato Principal, Postre) 
+	- Ingredientes
+	- Tiempo de preparacion (min.)
+
+* Tipo:
+	- Nombre
+
+* Categoria:
+	- Nombre
